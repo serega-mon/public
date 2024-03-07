@@ -23,6 +23,8 @@ namespace АТМ_БД
         public MainWindow()
         {
             InitializeComponent() ;
+            int min = 10;
+            Console.WriteLine(min);
         }
     }
 }
