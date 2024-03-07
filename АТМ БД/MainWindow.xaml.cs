@@ -22,7 +22,7 @@ namespace АТМ_БД
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent() ;
         }
     }
 }
